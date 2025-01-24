@@ -1,6 +1,6 @@
 👋 Hi, I'm Matt!
 
-![Data Science Banner](https://raw.githubusercontent.com/username/repository/branch/banner.png) 
+![Data Science Banner](https://github.com/user-attachments/assets/902c223b-8728-4f88-b36a-254be7c8df4f)
 
 🌟 A passionate data scientist exploring the power of **Python**, **SQL**, and **Machine Learning** to turn data into actionable insights.
 ## 🚀 About Me
