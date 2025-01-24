@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Data+Scientist%20&fontSize=80)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Data+Scientist&fontSize=80&fontColor=FFD700&desc=AI%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=70)
 👋 Hi, I'm Matt!
 
 🌟 A passionate data scientist exploring the power of **Python**, **SQL**, and **Machine Learning** to turn data into actionable insights.
