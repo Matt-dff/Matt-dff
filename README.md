@@ -6,7 +6,7 @@
 - 🎯 Goal: Build impactful solutions using data-driven approaches.
 - 📫 Reach me at: [mattdaffr@gmail.com](mailto:your.email@example.com)
 ## 🛠️ Skills & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Python]([https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-005C84?logo=postgresql&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=scikit-learn&logoColor=white)
 ![Data Science](https://img.shields.io/badge/-Data%20Science-3776AB?logo=anaconda&logoColor=white)
