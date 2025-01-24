@@ -4,7 +4,7 @@
 - 📊 I specialize in **Data Analysis**, **Machine Learning Models**, and **SQL Databases**.
 - 🌱 Currently diving deeper into **Data Science Projects** and advanced ML techniques.
 - 🎯 Goal: Build impactful solutions using data-driven approaches.
-- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
+- 📫 Reach me at: [mattdaffr@gmail.com](mailto:your.email@example.com)
 ## 🛠️ Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-005C84?logo=postgresql&logoColor=white)
