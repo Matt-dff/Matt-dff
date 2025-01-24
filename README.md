@@ -1,7 +1,4 @@
 👋 Hi, I'm Matt!
-
-![Data Science Banner](https://github.com/user-attachments/assets/902c223b-8728-4f88-b36a-254be7c8df4f)
-
 🌟 A passionate data scientist exploring the power of **Python**, **SQL**, and **Machine Learning** to turn data into actionable insights.
 ## 🚀 About Me
 - 📊 I specialize in **Data Analysis**, **Machine Learning Models**, and **SQL Databases**.
@@ -22,4 +19,3 @@
 ## 🔗 Connect With Me
 - 🌐 [GitHub Portfolio](https://github.com/Matt-dff)
 
-![DALL·E 2025-01-24 12 38 06 - A minimalistic GitHub banner for a data scientist, focusing on Python and AI themes  The design features a simple, clean background in neutral tones l](https://github.com/user-attachments/assets/902c223b-8728-4f88-b36a-254be7c8df4f)
