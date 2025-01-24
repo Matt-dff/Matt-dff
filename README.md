@@ -1,4 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+
 👋 Hi, I'm Matt!
+
 🌟 A passionate data scientist exploring the power of **Python**, **SQL**, and **Machine Learning** to turn data into actionable insights.
 ## 🚀 About Me
 - 📊 I specialize in **Data Analysis**, **Machine Learning Models**, and **SQL Databases**.
