@@ -1,4 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0f2027,ffcc00,f9a602&height=300&section=footer&text=Data+Scientist+🤖+🐍&fontSize=80&fontColor=FFD700)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b0528379-4c6b-4d99-9532-aa268100b016" alt="Profile Picture" width="150">
+</p>
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=0f2027,ffcc00,f9a602&height=300&section=footer&text=Data+Scientist&fontSize=80&fontColor=FFD700&desc=AI%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=70)
+
 
 
 👋 Hi, I'm Matt!
@@ -23,3 +28,4 @@
 ## 🔗 Connect With Me
 - 🌐 [GitHub Portfolio](https://github.com/Matt-dff)
 
+![python-programming-programming-programming-language-code-hd-wallpaper-preview (1)](https://github.com/user-attachments/assets/b0528379-4c6b-4d99-9532-aa268100b016)
