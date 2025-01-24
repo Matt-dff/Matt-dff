@@ -9,16 +9,25 @@
 - 🌱 Currently diving deeper into **Data Science Projects** and advanced ML techniques.
 - 🎯 Goal: Build impactful solutions using data-driven approaches.
 - 📫 Reach me at: [mattdaffr@gmail.com](mailto:your.email@example.com)
+  
 ## 🛠️ Skills & Tools
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-005C84?logo=postgresql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=scikit-learn&logoColor=white)
-![Data Science](https://img.shields.io/badge/-Data%20Science-3776AB?logo=anaconda&logoColor=white)
-
-
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📈 GitHub Stats
-![Matt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matt-dff&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Matt-dff&show_icons=true&theme=radical" alt="Matt's GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Matt-dff&theme=radical" alt="GitHub Streak" width="48%">
+</p>
+
+## 🧑‍💻 My Projects
+### 🌟 Featured Projects
+- **[AI Chatbot](https://github.com/Matt-dff/ai-chatbot)**: A Python-based chatbot leveraging NLP techniques.
+- **[Data Visualization Dashboards](https://github.com/Matt-dff/data-viz-dashboards)**: Stunning dashboards for analyzing complex datasets.
+- **[Machine Learning Models](https://github.com/Matt-dff/ml-models)**: Collection of machine learning models solving real-world problems.
 
 ## 🔗 Connect With Me
 - 🌐 [GitHub Portfolio](https://github.com/Matt-dff)
