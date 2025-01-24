@@ -11,6 +11,9 @@
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=scikit-learn&logoColor=white)
 ![Data Science](https://img.shields.io/badge/-Data%20Science-3776AB?logo=anaconda&logoColor=white)
 
+![Header Banner](https://github.com/Matt-dff/Matt-dff/blob/main/banner-image.png)
+
+
 ## 📈 GitHub Stats
 ![Matt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matt-dff&show_icons=true&theme=radical)
 
